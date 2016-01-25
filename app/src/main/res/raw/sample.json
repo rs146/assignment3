@@ -1,0 +1,40 @@
+{
+  "coord": {
+    "lon": -86.78,
+    "lat": 36.17
+  },
+  "sys": {
+    "message": 0.0598,
+    "country": "United States of America",
+    "sunrise": 1432722778,
+    "sunset": 1432774540
+  },
+  "weather": [
+    {
+      "id": 500,
+      "main": "Rain",
+      "description": "light rain",
+      "icon": "10n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 293.727,
+    "temp_min": 293.727,
+    "temp_max": 293.727,
+    "pressure": 1008.37,
+    "sea_level": 1033.16,
+    "grnd_level": 1008.37,
+    "humidity": 98
+  },
+  "wind": {
+    "speed": 1.91,
+    "deg": 218.502
+  },
+  "clouds": {"all": 92},
+  "rain": {"3h": 0.475},
+  "dt": 1432714671,
+  "id": 4644585,
+  "name": "Nashville",
+  "cod": 200
+}
